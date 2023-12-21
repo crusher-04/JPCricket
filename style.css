@@ -94,8 +94,8 @@ h2 {
 
 /* Ensure images inside the carousel are responsive */
         #carouselExample img {
-            max-width: 100%;
-            height: auto;
+            /* max-width: 100%;
+            height: auto; */
         }
 
 /* Responsive Styles */
